@@ -22,7 +22,7 @@ Then to sync up:
       x11proto-core-dev libx11-dev lib32z-dev \
       libgl1-mesa-dev g++-multilib mingw32 tofrodos python-markdown \
       libxml2-utils xsltproc autoconf grub-common qemu-user cmake vim-common \
-      realpath
+      realpath image imagemagick
 
 ### Installing required packages (Ubuntu 12.04) 32-bit
     $ sudo apt-get install git gnupg flex bison gperf build-essential \
